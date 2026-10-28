@@ -260,10 +260,26 @@ body {
 
 </section>
 
-</p>
+<footer class="bg-black text-white py-10 text-center">
+
+    <p class="font-bold">
+        McCarthy Tax Law, P.A.
+    </p>
+
+    <p class="mt-2">
+        (954) 817-3876
+    </p>
+
+    <p class="mt-2">
+        wbmccarthy@mccarthytaxlaw.com
+    </p>
+
+    <p class="mt-4">
+        3830 S Hwy A1A, PMB 4-175<br>
+        Melbourne Beach, FL 32951
+    </p>
 
     <div class="mt-8 text-left text-sm text-slate-400 max-w-5xl mx-auto space-y-4">
-
     <p>
         <strong>Attorney Advertising:</strong> The information contained on this website is for general informational purposes only and does not constitute legal advice. Prior results do not guarantee a similar outcome. Use of this website does not create an attorney-client relationship.
     </p>
