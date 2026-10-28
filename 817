@@ -260,23 +260,6 @@ body {
 
 </section>
 
-<footer class="bg-black text-white py-10 text-center">
-
-    <p class="font-bold">
-        McCarthy Tax Law, P.A.
-    </p>
-
-    <p class="mt-2">
-    (954) 817-3876
-</p>
-
-<p class="mt-2">
-    wbmccarthy@mccarthytaxlaw.com
-</p>
-
-<p class="mt-4">
-    3830 S Hwy A1A, PMB 4-175<br>
-    Melbourne Beach, FL 32951
 </p>
 
     <div class="mt-8 text-left text-sm text-slate-400 max-w-5xl mx-auto space-y-4">
